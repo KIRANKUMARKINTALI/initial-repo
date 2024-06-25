@@ -1,6 +1,5 @@
 
 public class TestingClasss {
 
-  public String name;
-  
+  public int name;
 }
